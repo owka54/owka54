@@ -1,8 +1,7 @@
-- 👋 Hi, My name is Owen aka @owka54
-- 👀 I’m interested in Motorbikes (Was a mechanic for 2 years), Pizza and Music (Lil Peep <3).
-- 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, My name is Owen
+- 🌱 I’m currently learning Python using Codecademy. I am working towards landing a job at some point during 2022.
 - 📫 How to reach me: Instagram - owenkane54
+                      Twitter - owka54
 
 <!---
 owka54/owka54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
