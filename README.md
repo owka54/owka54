@@ -1,4 +1,4 @@
-Hi, I'm Owen 👋 I am always trying to learn new things in all aspects of life. 📚 Currently, I am learning Python using Codecademy.
+Hi, I'm Owen 👋 I am always trying to learn new things in all aspects of life. 📚 Currently, I am going through a Career change using the ITCareerSwitch Bootcamp.
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
