@@ -4,7 +4,6 @@ I am currently looking for my first role as a Software Developer as well as cont
                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/owka54" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="" width="40" /></a>
 <a href="https://www.linkedin.com/in/owen-kane54/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="" width="40" /></a></p>
 <hr>
 
